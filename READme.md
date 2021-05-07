@@ -1,4 +1,7 @@
 # **C++ LAB1 : Print number**
+
+[![hackmd-github-sync-badge](https://hackmd.io/I4qQ8VK0RDSabONzlYndxQ/badge)](https://hackmd.io/I4qQ8VK0RDSabONzlYndxQ)
+
 ----
 **This program has some functions**
 1. **function 1:**
